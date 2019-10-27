@@ -1,2 +1,3 @@
-# ccsweb-bastion
-CCS Website Bastion Host
+# ccsweb-bastion - Bastion build
+
+Codedeploy-managed build of the bastion server for the CCS website.
